@@ -38,8 +38,8 @@
                                 <rect key="frame" x="185" y="116" width="124.5" height="31"/>
                             </slider>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aJE-a1-dMi">
-                                <rect key="frame" x="128" y="154" width="64" height="30"/>
-                                <state key="normal" title="Calculate"/>
+                                <rect key="frame" x="139" y="154" width="43" height="30"/>
+                                <state key="normal" title="Calcul"/>
                             </button>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" textAlignment="natural" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6zQ-sp-vsi">
                                 <rect key="frame" x="12" y="192" width="296" height="368"/>
